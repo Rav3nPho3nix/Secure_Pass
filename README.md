@@ -16,12 +16,12 @@ More Informations:
 * You must have the json file in the same folder than the python file
 * If you have some stored passwords and then you change your encryption method, there will be an error and the password manager will crash !
 
-![image](https://github.com/GiulianoCap/Secure_Pass/assets/102018361/24e83b19-8bc0-47a3-9922-54aab72ef23c)
+![image](https://github.com/Rav3nPho3nix/Secure_Pass/assets/128914405/626d41af-f2c3-4e13-8d09-4684ccec375b)
 
 Here i add a new password :
 
-![image](https://github.com/GiulianoCap/Secure_Pass/assets/102018361/039d272f-aec1-4d13-9cd3-9b74bd967199)
+![image](https://github.com/Rav3nPho3nix/Secure_Pass/assets/128914405/1edbc8bb-6d94-4550-a3f2-0012322d66b6)
 
 It appear like that in the json file :
 
-![image](https://github.com/GiulianoCap/Secure_Pass/assets/102018361/317b88b1-f04f-462d-bab5-376c060031b8)
+![image](https://github.com/Rav3nPho3nix/Secure_Pass/assets/128914405/7e5b6875-b2ac-4503-8a0b-0744446e6868)
